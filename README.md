@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KowalskiMax
-- 👀 I’m interested in 2d metroidvania 8bit games   
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on game devs!
+- 👀 I’m interested in web development   
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on web devs!
 - 📫 How to reach me: tg @aviatenor
 
 <!---
